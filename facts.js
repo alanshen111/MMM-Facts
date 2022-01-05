@@ -1,18 +1,26 @@
-Module.register("random_facts",{
+Module.register("facts",{
 
 	// edit these
 	defaults: {
-		updateInterval: 300,	// how long a fact stays up in seconds
-		fadeSpeed: 4,			// fade out of text in seconds
-		category: 'random',		// category to use
-		facts: {
-			inspirational: [
-				"a",
-                "b",
+		updateInterval: 3,	// how long a fact stays up in seconds
+		fadeSpeed: 2,			// fade out of text in seconds
+		category: 'random',		// pick a category below, or use 'random'
+		facts: { 
+			art: [
+				"Purple is the color for epilepsy awareness because of its association with lavender, which is a traditional herbal treatment for the disease.",
+                "Vincent Van Gogh painted The Starry Night during his stay at a psychiatric facility.",
 			],
-			life: [
-                "a",
-                "b",
+            history: [
+				"Pepsi, the soft drink company, once became the 6th largest military in the world after the Soviets exchanged 17 submarines, one frigate, one cruiser, and one destroyer for three billion dollars' worth of Pepsi.",
+                "The shortest war, fought between Britain and Zanzibar, lasted 38 minutes and ended with a British victory.",
+			],
+            nature: [
+				"Armadillos are bulletproof.",
+                "At over 2,000 kilometers long, The Great Barrier Reef is the largest living structure on Earth.",
+			],
+            nerd: [
+				"The Firefox logo is a red panda.",
+                "A million seconds is 12 days. A billion seconds is 31 years. A trillion seconds is 31,688 years.",
 			]
 		},
 	},

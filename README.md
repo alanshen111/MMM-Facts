@@ -5,7 +5,7 @@ Displays some facts. No APIs needed.
 ## Installing the module
 Clone this repository in your `~/MagicMirror/modules/` folder
 ````javascript
-git clone https://github.com/alanshen111/MMM-facts.git
+git clone https://github.com/alanshen111/facts.git
 ````
 
 ## Using the module

@@ -46,7 +46,7 @@ modules: [
 		</tr>
 		<tr>
 			<td><code>category</code></td>
-			<td>What category to pick from. default is <code>random</code>, but you can choose specific categories such as <code>art</code>, <code>history</code>, <code>nature</code>, or <code>nerd</code>. </td>
+			<td>What category to pick from. default is <code>random</code>, but you can choose specific categories such as <code>art</code>, <code>history</code>, <code>nature</code>, or <code>nerd</code>. feel free to add your own as well! </td>
 		</tr>
 	</tbody>
 </table>

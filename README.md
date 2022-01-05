@@ -13,7 +13,7 @@ Add the module to the `config/config.js` file:
 ````javascript
 modules: [
 		{
-			module: 'random_quotes',
+			module: 'facts',
 			position: 'lower_third',
 			/**
 			config: {

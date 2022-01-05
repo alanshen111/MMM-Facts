@@ -9,7 +9,7 @@ git clone https://github.com/alanshen111/facts.git
 ````
 
 ## Using the module
-Add the module to the `config/config.js` file:
+Add the module to the `~/MagicMirror/config/config.js` file:
 ````javascript
 modules: [
 		{

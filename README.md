@@ -12,17 +12,17 @@ git clone https://github.com/alanshen111/MMM-facts.git
 Add the module to the `config/config.js` file:
 ````javascript
 modules: [
-			{
-				module: 'random_quotes',
-				position: 'lower_third',
-				/**
-				config: {
-						updateInterval: 5,	
-						fadeSpeed: 4,			
-						category: 'random',	
-				}
-				**/
+		{
+			module: 'random_quotes',
+			position: 'lower_third',
+			/**
+			config: {
+					updateInterval: 5,	
+					fadeSpeed: 4,			
+					category: 'random',	
 			}
+			**/
+		}
 ]
 ````
 

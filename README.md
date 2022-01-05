@@ -15,11 +15,13 @@ modules: [
 			{
 				module: 'random_quotes',
 				position: 'lower_third',
+                /**
 				config: {
-						// updateInterval: 5,	
-                        // fadeSpeed: 4,			
-                        // category: 'random',	
+						updateInterval: 5,	
+                        fadeSpeed: 4,			
+                        category: 'random',	
 				}
+                **/
 			}
 ]
 ````

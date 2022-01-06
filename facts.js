@@ -62,6 +62,7 @@ Module.register("facts",{
 				"Sleep more than you study, study more than you party, and party hard.",
 				"LPT: When someone gets interrupted while telling a story, invite them to continue after the interruption is over with an, “as you were saying about (x)” or something similar. It can be uncomfortable for the person to start back up and this makes them feel like you valued their words.",
 				"Honest people are bad liars.",
+				"Unmotivated to excercise? Think about becoming like your favourite overpowered superheroes/characters",
 				"It is important to know when to stop arguing with people, and simply let them be wrong.",
 				"If you’re stuck on an annoying call, put your phone on airplane mode instead of just hanging up. The other person will see “call failed” instead of “call ended”. To make it less obvious, disconnect while you're the one talking.",
 				"Ask yourself “what does it matter to me” the next time you find yourself judging someone for their clothing, interests or hobbies. The more you train yourself to not care about the personal preferences of other people, the more relaxed and nicer you become as a person.",

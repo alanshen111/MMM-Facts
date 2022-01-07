@@ -2,7 +2,7 @@ Module.register("facts",{
 
 	// edit these
 	defaults: {
-		updateInterval: 30,	// how long a fact stays up in seconds
+		updateInterval: 30,		// how long a fact stays up in seconds
 		fadeSpeed: 2,			// fade out of text in seconds
 		category: 'random',		// pick a category below, or use 'random'
 		facts: { 

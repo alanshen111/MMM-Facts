@@ -1,6 +1,6 @@
 # Facts: A Magic Mirror Module
 
-Displays some facts. No APIs needed. 
+Displays some facts. Makes your mirror look like an RPG loading screen. No APIs needed. 
 
 ## Installing the module
 Clone this repository in your `~/MagicMirror/modules/` folder

@@ -60,7 +60,6 @@ Module.register("facts",{
 				"Put a bar of soap in your dresser. It will make it smell nice.",
 				"What are you grateful about?",
 				"Sleep more than you study, study more than you party, and party hard.",
-				"LPT: When someone gets interrupted while telling a story, invite them to continue after the interruption is over with an, “as you were saying about (x)” or something similar. It can be uncomfortable for the person to start back up and this makes them feel like you valued their words.",
 				"Honest people are bad liars.",
 				"Unmotivated to excercise? Think about becoming like your favourite overpowered superheroes/characters",
 				"It is important to know when to stop arguing with people, and simply let them be wrong.",
@@ -144,7 +143,7 @@ Module.register("facts",{
 		fact.className = "bright medium light";
 		fact.style.textAlign = 'center';
 		fact.style.margin = '0 auto';
-		fact.style.maxWidth = '50%';
+		fact.style.maxWidth = '80%';
 		fact.innerHTML = text;
 
 		wrapper.appendChild(fact);

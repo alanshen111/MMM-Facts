@@ -81,7 +81,7 @@ Module.register("facts",{
 	},
 
 
-	// executes on start
+	// executes on start 
 	start: function() {
 		Log.info("Starting module: " + this.name);
 

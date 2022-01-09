@@ -12,7 +12,7 @@ Module.register("facts",{
 			],
 			food: [
 				"Do not eat polar bear liver. The human body can not handle that much vitamin A.",
-				"Honey does not spoil, due to it's low moisture content.",
+				"Honey does not spoil, due to its low moisture content.",
 			],
 			health: [
 				"There are no muscles in your fingers: Their function is controlled by muscles in your palms and arms.",

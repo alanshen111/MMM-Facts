@@ -2,6 +2,8 @@
 
 Displays some facts. Makes your mirror look like an RPG loading screen. No APIs needed. 
 
+![Example](example.png "Example")
+
 ## Installing the module
 Clone this repository in your `~/MagicMirror/modules/` folder
 ````javascript

@@ -57,4 +57,4 @@ modules: [
 You can edit the `facts.js` file.
 
 ## Extra Credits
-Heavily inspired by the [random_quotes](https://github.com/KirAsh4/random_quotes) module.
+Inspired by the [random_quotes](https://github.com/KirAsh4/random_quotes) module.

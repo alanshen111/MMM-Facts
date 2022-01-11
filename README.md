@@ -16,7 +16,7 @@ Add the module to the `~/MagicMirror/config/config.js` file:
 modules: [
 		{
 			module: 'facts',
-			position: 'lower_third',
+			position: 'bottom_bar',
 			/**
 			config: {
 					updateInterval: 5,	

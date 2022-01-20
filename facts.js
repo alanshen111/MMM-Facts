@@ -9,10 +9,12 @@ Module.register("facts",{
 			art: [
 				"Purple is the color for epilepsy awareness because of its association with lavender, which is a traditional herbal treatment for the disease.",
 				"Vincent Van Gogh painted The Starry Night during his stay at a psychiatric facility.",
+				"Research has shown practicing art correlates with higher achievement in reading and maths.",
 			],
 			food: [
 				"Do not eat polar bear liver. The human body can not handle that much vitamin A.",
 				"Honey does not spoil, due to its low moisture content.",
+				"Strawberries are not berries, but bananas and avocados are."
 			],
 			health: [
 				"There are no muscles in your fingers: Their function is controlled by muscles in your palms and arms.",
@@ -22,33 +24,35 @@ Module.register("facts",{
 			history: [
 				"Pepsi, the soft drink company, once became the 6th largest military in the world after the Soviets exchanged 17 submarines, one frigate, one cruiser, and one destroyer for three billion dollars' worth of Pepsi.",
 				"The shortest war, fought between Britain and Zanzibar, lasted 38 minutes and ended with a British victory.",
-				"Nobody knows who invented the fire hydrant because the patent for the hydrant was lost in a fire.",
-				"It took humanity 4 times longer to switch from bronze swords to steel swords than it took humanity to switch from steel swords to nuclear bombs.",
-				"Canadians said “sorry” so much that a law was passed in 2009 declaring that an apology could not be used as evidence of admission to guilt.",
+				"Nobody knows who invented the fire hydrant because the patent was lost in a fire.",
 				"Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid of Giza.",
 			],
 			language: [
 				"A single strand of Spaghetti is called a “Spaghetto”.",
 				"pneumonoultramicroscopicsilicovolcanoconiosis, a lung disease caused by inhaling silicate, is the longest word in english.",
-				"To leave a party without telling anyone is called in English, a “French Exit”. In French, it is called a “partir à l’anglaise”, to leave like the English.",
+				"To leave a party without telling anyone is called a “French Exit”. In French, it is called “partir à l’anglaise”, to leave like the English.",
 			],
 			nature: [
 				"Armadillos are bulletproof.",
 				"At over 2,000 kilometers long, The Great Barrier Reef is the largest living structure on Earth.",
-				"Cows don’t actually have four stomachs; they have one stomach with four compartments.",
 				"It's illegal to own just one guinea pig in Switzerland because they get lonely.",
 				"If it is raining and the birds are still loud outside, the rain is going to continue for a long time (8-10+ hours). They're basically panicking and trying to solve the problem of running out of food soon.",
 			],
 			nerd: [
-				"A million seconds is 12 days. A billion seconds is 31 years. A trillion seconds is 31,688 years.",
+				"A million seconds is 12 days. A billion seconds is 31 years.",
 				"Every 60 seconds in Africa, a minute passes.",
 			],
 			space: [
 				"There are more trees on Earth than stars in the Milky Way.",
-				"Uranus used to be named George."
+				"Uranus used to be named George.",
+				"A teaspoon of a neutron star weighs over a trillion kilograms.",
+				"One light-year is about 9 trillion kilometres (6 trillion miles).",
 			],
 			tips: [
+				"If your bathroom mirrors fog up all the time after a hot shower, rub a cucumber slice along the mirror. It will eliminate the mist and provide a soothing, spa-like fragrance.",
 				"The more you say, the more you are responsible for.",
+				"Remember to turn your phone ringer back on. Someone you love may be calling.",
+				"Go outside in the morning to get natural light. It sets your circadian rhythm for the day. You can combine this practice with a short jog, bike ride, or walk. Lateral eye movement caused by self-propelled motion is shown to reduce stress.",
 				"When you don't have all the facts, try to give people the most generous reason you can for their behaviour. Annoyingly slow driver? Maybe it's a mom with a birthday cake in the back. This mindset will gradually make you less reactive, more compassionate and more forgiving of your own bad days.",
 				"Do not try to be the man your father would want you to be. Be the man you would like your son to be be.",
 				"Avoid being the bearer of bad news.",
@@ -59,6 +63,8 @@ Module.register("facts",{
 				"If your boss promises you something, ask them to put it in writing.",
 				"Put a bar of soap in your dresser. It will make it smell nice.",
 				"What are you grateful about?",
+				"Breathe.",
+				"Money can be exchanged for goods or services.",
 				"Sleep more than you study, study more than you party, and party hard.",
 				"Honest people are bad liars.",
 				"Unmotivated to excercise? Think about becoming like your favourite overpowered superheroes/characters",

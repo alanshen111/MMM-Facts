@@ -53,5 +53,5 @@ modules: [
 	</tbody>
 </table>
 
-## Adding facts
+## How to add your own facts
 You can edit the `facts.js` file.

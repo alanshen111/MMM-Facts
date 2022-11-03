@@ -52,7 +52,7 @@ Module.register("facts",{
 				"Remember to turn your phone ringer back on. Someone you love may be calling.",
 				"Go outside in the morning to get natural light. It sets your circadian rhythm for the day. You can combine this practice with a short jog, bike ride, or walk. Lateral eye movement caused by self-propelled motion is shown to reduce stress.",
 				"When you don't have all the facts, try to give people the most generous reason you can for their behaviour. Annoyingly slow driver? Maybe it's a mom with a birthday cake in the back. This mindset will gradually make you less reactive, more compassionate and more forgiving of your own bad days.",
-				"Do not try to be the man your father would want you to be. Be the man you would like your son to be be.",
+				"Don't try to be the man your father would want you to be. Be the man you'd like your son to be.",
 				"Avoid being the bearer of bad news.",
 				"Inhale twice, exhale once. This will help you intake some more oxygen.",
 				"Try to get your work done in the morning. The mind clutters over time.",

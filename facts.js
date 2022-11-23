@@ -28,7 +28,7 @@ Module.register("facts",{
 			],
 			language: [
 				"A single strand of Spaghetti is called a “Spaghetto”.",
-				"To leave a party without telling anyone is called a “French Exit”. In French, it is called “partir à l’anglaise”, to leave like the English.",
+				"To leave a party without telling anyone is called a “French Exit”. In French, it is called “partir à l’anglaise” - to leave like the English.",
 			],
 			nature: [
 				"Armadillos are bulletproof.",
@@ -70,13 +70,13 @@ Module.register("facts",{
 				"You have the right to discuss your salary with others.",
 				"Be amused. There are few things in life to take seriously.",
 				"Smile. Not only will you seem more charismatic, your body releases chemicals that make you happy.",
-				"If you can do a job in one hour, say you will need three and finish in two.",
+				"Under-promise, but over-deliver.",
 				"Practice positive self-talk. You will manifest what you say, believe it or not.",
-				"Excercise before interviews or stressful situations. It will work the nerves away.",
+				"Excercise before interviews or stressful situations. This is a great way to improve bloodflow, clear your mind, and burn up nervous energy. Don't forget to shower!",
 				"Thank people by name. It will impact them much more.",
 				"Fix your posture.",
 				"Stretch.",
-				"If you are in a bad mood, clean. Reducing visual noise and releasing energy is an easy way to reduce stress.",
+				"If you are in a bad mood, clean your house. Reducing visual noise and releasing energy is an easy way to reduce stress.",
 				"If someone insults you during a meeting, pretend you didn't hear them and politely ask them to repeat themself. They will look unprofessional no matter how they respond.",
 				"Just because you did something wrong in the past, doesn’t mean you can’t advocate against it now. Don’t let people use your past to invalidate your current mindset.",
 			]

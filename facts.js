@@ -76,6 +76,7 @@ Module.register("facts",{
 				"Thank people by name. It will impact them much more.",
 				"Fix your posture.",
 				"Stretch.",
+				"After accomplishing a goal, look around to see whether you lost something or someone.",
 				"If you are in a bad mood, clean your house. Reducing visual noise and releasing energy is an easy way to reduce stress.",
 				"If someone insults you during a meeting, pretend you didn't hear them and politely ask them to repeat themself. They will look unprofessional no matter how they respond.",
 				"Just because you did something wrong in the past, doesn’t mean you can’t advocate against it now. Don’t let people use your past to invalidate your current mindset.",

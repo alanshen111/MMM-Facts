@@ -47,11 +47,11 @@ modules: [
 	<tbody>
 		<tr>
 			<td><code>updateInterval</code></td>
-			<td>Time the fact is changed in seconds</td>
+			<td>Time it takes for the fact to change in seconds</td>
 		</tr>
 		<tr>
 			<td><code>fadeSpeed</code></td>
-			<td>Fact text fadeout in seconds.</td>
+			<td>Time it takes for fact to fade out in seconds.</td>
 		</tr>
 		<tr>
 			<td><code>category</code></td>

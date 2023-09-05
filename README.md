@@ -51,7 +51,7 @@ modules: [
 		</tr>
 		<tr>
 			<td><code>fadeSpeed</code></td>
-			<td>Time it takes for fact to fade out in seconds.</td>
+			<td>Time it takes for the fact to fade out in seconds.</td>
 		</tr>
 		<tr>
 			<td><code>category</code></td>

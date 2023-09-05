@@ -13,11 +13,16 @@ Module.register("facts",{
 			],
 			food: [
 				"Honey does not spoil, due to low moisture content.",
-				"Strawberries are not berries, but bananas and avocados are."
+				"Strawberries are not berries, but bananas and avocados are.",
+				"Cucumbers are 95% water.",
+				"Rotten eggs float.",
 			],
 			health: [
 				"There are no muscles in your fingers: Their function is controlled by muscles in your palms and arms.",
 				"On average, a 150-pound person burns 114 calories per hour while standing and doing nothing.",
+				"The average person spends more time on the toilet than they do exercising.",
+				"Your height differs depending on the time of day.",
+				"Hyponatremia occurs when you overdoes on water.",
 			],
 			history: [
 				"Pepsi, the soft drink company, once became the 6th largest military in the world after the Soviets exchanged 17 submarines, one frigate, one cruiser, and one destroyer for three billion dollars' worth of Pepsi.",

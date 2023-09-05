@@ -17,7 +17,6 @@ Module.register("facts",{
 			],
 			health: [
 				"There are no muscles in your fingers: Their function is controlled by muscles in your palms and arms.",
-				"The flashes of colored light you see when you rub your eyes are called “phosphenes”.",
 				"On average, a 150-pound person burns 114 calories per hour while standing and doing nothing.",
 			],
 			history: [
@@ -28,6 +27,7 @@ Module.register("facts",{
 			],
 			language: [
 				"A single strand of Spaghetti is called a “Spaghetto”.",
+				"The flashes of colored light you see when you rub your eyes are called “phosphenes”.",
 				"To leave a party without telling anyone is called a “French Exit”. In French, it is called “partir à l’anglaise” - to leave like the English.",
 			],
 			nature: [
@@ -39,6 +39,9 @@ Module.register("facts",{
 			nerd: [
 				"A million seconds is 12 days. A billion seconds is 31 years.",
 				"Every 60 seconds in Africa, a minute passes.",
+				"(6 × 9) + (6 + 9) = 69",
+				"In a room of just 23 people there’s a 50% chance that two people have the same birthday. The probability of two people out of 70 having the same birthday is 99.9%.",
+				"There are 80,658,175,170,943,878,571,660,636,856, 403,766,975,289,505,440,883,277,824,000,000,000,000 ways to arrange a pack of cards. So, if you shuffle a pack of cards yourself, you are likely to have a deck never seen before in history of the universe.",
 			],
 			space: [
 				"There are more trees on Earth than stars in the Milky Way.",
@@ -62,7 +65,7 @@ Module.register("facts",{
 				"Money can be exchanged for goods or services.",
 				"Sleep more than you study, study more than you party, and party hard.",
 				"Honest people are bad liars.",
-				"Unmotivated to excercise? Think about your favourite superheroes/characters",
+				"Unmotivated to exercise? Think about your favourite superheroes/characters",
 				"It is important to know when to stop arguing with people, and simply let them be wrong.",
 				"If you’re stuck on an annoying call, put your phone on airplane mode instead of just hanging up. The other person will see “call failed” instead of “call ended”. To make it less obvious, disconnect while you're the one talking.",
 				"Ask yourself “what does it matter to me” the next time you find yourself judging someone for their clothing, interests or hobbies. The more you train yourself to not care about the personal preferences of other people, the more relaxed and nicer you become as a person.",
@@ -72,11 +75,11 @@ Module.register("facts",{
 				"Smile. Not only will you seem more charismatic, your body releases chemicals that make you happy.",
 				"Under-promise, but over-deliver.",
 				"Practice positive self-talk. You will manifest what you say, believe it or not.",
-				"Excercise before interviews or stressful situations. This is a great way to improve bloodflow, clear your mind, and burn up nervous energy. Don't forget to shower!",
+				"Exercise before interviews or stressful situations. This is a great way to improve bloodflow, clear your mind, and burn up nervous energy. Don't forget to shower!",
 				"Thank people by name. It will impact them much more.",
 				"Fix your posture.",
 				"Stretch.",
-				"After accomplishing a goal, look around to see whether you lost something or someone.",
+				"After accomplishing a goal, look around to see whether you lost something or someone in the process.",
 				"If you are in a bad mood, clean your house. Reducing visual noise and releasing energy is an easy way to reduce stress.",
 				"If someone insults you during a meeting, pretend you didn't hear them and politely ask them to repeat themself. They will look unprofessional no matter how they respond.",
 				"Just because you did something wrong in the past, doesn’t mean you can’t advocate against it now. Don’t let people use your past to invalidate your current mindset.",
@@ -128,7 +131,7 @@ Module.register("facts",{
 		}
 	},
 
-    // return a fact from array of facts
+    	// return a fact from array of facts
 	randomFact: function() {
 		var facts = this.factArray();
 		var index = this.randomIndex(facts);

@@ -27,6 +27,20 @@ modules: [
 		}
 ]
 ````
+You may also add configurations:
+````javascript
+modules: [
+		{
+			module: 'facts',
+			position: 'bottom_bar',
+			config: {
+					updateInterval: 5,	
+					fadeSpeed: 4,			
+					category: 'random',	
+			}
+		}
+]
+````
 
 ## Configuration options
 

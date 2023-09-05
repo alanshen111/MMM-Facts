@@ -22,7 +22,7 @@ Module.register("facts",{
 				"On average, a 150-pound person burns 114 calories per hour while standing and doing nothing.",
 				"The average person spends more time on the toilet than they do exercising.",
 				"Your height differs depending on the time of day.",
-				"Hyponatremia occurs when you overdoes on water.",
+				"Hyponatremia occurs when you overdose on water.",
 			],
 			history: [
 				"Pepsi, the soft drink company, once became the 6th largest military in the world after the Soviets exchanged 17 submarines, one frigate, one cruiser, and one destroyer for three billion dollars' worth of Pepsi.",

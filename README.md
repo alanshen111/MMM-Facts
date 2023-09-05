@@ -17,13 +17,6 @@ modules: [
 		{
 			module: 'facts',
 			position: 'bottom_bar',
-			/**
-			config: {
-					updateInterval: 5,	
-					fadeSpeed: 4,			
-					category: 'random',	
-			}
-			**/
 		}
 ]
 ````

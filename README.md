@@ -61,4 +61,4 @@ modules: [
 </table>
 
 ## How to add your own facts
-You can edit the `facts.js` file.
+You can edit the `facts.js` file, if you are comfortable with merging them with any remote changes. 

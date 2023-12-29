@@ -61,4 +61,5 @@ modules: [
 </table>
 
 ## How to add your own facts
-You can edit the `facts.js` file, if you are comfortable merging them with any remote changes. 
+You can edit the `facts.js` file, if you are comfortable merging them with any remote changes.
+Alternatively, you may fork this repository to have an exclusive copy you can edit without conflicts.

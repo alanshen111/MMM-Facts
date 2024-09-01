@@ -1,0 +1,10 @@
+repos:
+- repo: https://github.com/codespell-project/codespell
+  rev: v2.2.5
+  hooks:
+  - id: codespell
+    name: Spell check
+    entry: codespell
+    language: python
+    files: '\.js$'
+    args: ["--ignore-words-list=spaghetto,phosphenes"]  # Add any terms to ignore here

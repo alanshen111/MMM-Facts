@@ -1,0 +1,10 @@
+repos:
+  - repo: local
+    hooks:
+      - id: cspell
+        name: cspell
+        entry: cspell
+        language: node
+        types: [text]
+        files: \.js$
+        args: ["--config=.cspell.json", "--no-summary", "--no-progress"]

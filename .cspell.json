@@ -1,0 +1,21 @@
+{
+    "version": "0.2",
+    "language": "en",
+    "words": [
+      "phosphenes",
+      "spaghetto",
+      "Hyponatremia",
+      "partir",
+      "l’anglaise",
+    ],
+    "ignorePaths": [
+      "node_modules/**",
+      "dist/**",
+      "build/**"
+    ],
+    "dictionaries": [
+      "typescript",
+      "node"
+    ]
+  }
+  

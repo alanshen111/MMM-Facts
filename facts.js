@@ -65,7 +65,7 @@ Module.register("facts",{
 				"Inhale twice, exhale once. This will help you intake some more oxygen.",
 				"Try to get your work done in the morning. The mind clutters over time.",
 				"Divide the day into quarters. Instead of saying “I'll do it tomorrow”, say “I'll do it next quarter”.",
-				"Defocus your eyes and look out the window. Your brain will release stress-relieving chemicals.",
+				"De-focus your eyes and look out the window. Your brain will release stress-relieving chemicals.",
 				"If your boss promises you something, ask them to put it in writing.",
 				"Money can be exchanged for goods or services.",
 				"Sleep more than you study, study more than you party, and party hard.",
@@ -86,7 +86,7 @@ Module.register("facts",{
 				"Stretch.",
 				"After accomplishing a goal, look around to see whether you lost something or someone in the process.",
 				"If you are in a bad mood, clean your house. Reducing visual noise and releasing energy is an easy way to reduce stress.",
-				"If someone insults you during a meeting, pretend you didn't hear them and politely ask them to repeat themself. They will look unprofessional no matter how they respond.",
+				"If someone insults you during a meeting, pretend you didn't hear them and politely ask them to repeat themselves. They will look unprofessional no matter how they respond.",
 				"Just because you did something wrong in the past, doesn’t mean you can’t advocate against it now. Don’t let people use your past to invalidate your current mindset.",
 			]
 		},

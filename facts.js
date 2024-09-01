@@ -10,6 +10,7 @@ Module.register("facts",{
 				"Purple is the color for epilepsy awareness because of its association with lavender, which is a traditional herbal treatment for the disease.",
 				"Vincent Van Gogh painted The Starry Night during his stay at a psychiatric facility.",
 				"Research has shown practicing art correlates with higher achievement in reading and maths.",
+				"ABC 123 ahhh bad splelling",
 			],
 			food: [
 				"Honey does not spoil, due to low moisture content.",

@@ -1,0 +1,23 @@
+{
+  "name": "mmm-facts",
+  "version": "1.0.0",
+  "description": "Module for MagicMirror² to displays some interesting facts. Makes your mirror look like an RPG loading screen.",
+  "main": "MMM-Facts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanshen111/MMM-Facts.git"
+  },
+  "keywords": [
+    "MagicMirror",
+    "facts"
+  ],
+  "author": "Alan Shen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alanshen111/MMM-Facts/issues"
+  },
+  "homepage": "https://github.com/alanshen111/MMM-Facts#readme"
+}

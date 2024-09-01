@@ -1,39 +1,45 @@
-# Facts: A Magic Mirror Module
+# MMM-Facts: A MagicMirror Module
 
-Displays some facts. Makes your mirror look like an RPG loading screen. No APIs needed. 
+Displays some facts. Makes your mirror look like an RPG loading screen. No APIs needed.
 
 ![Example](example.png "Example")
 
 ## Installing the module
-Clone this repository in your `~/MagicMirror/modules/` folder
-````javascript
-git clone https://github.com/alanshen111/facts.git
-````
+
+Clone this repository in your `~/MagicMirror/modules/` folder:
+
+```bash
+git clone https://github.com/alanshen111/MMM-Facts
+```
 
 ## Using the module
+
 Add the module to the `~/MagicMirror/config/config.js` file:
-````javascript
+
+```javascript
 modules: [
 		{
-			module: 'facts',
+			module: 'MMM-Facts',
 			position: 'bottom_bar',
 		}
 ]
-````
+```
+
 You may also add configurations:
-````javascript
+
+```javascript
 modules: [
 		{
-			module: 'facts',
+			module: 'MMM-Facts',
 			position: 'bottom_bar',
 			config: {
-					updateInterval: 5,	
-					fadeSpeed: 4,			
-					category: 'random',	
+					updateInterval: 5,
+					fadeSpeed: 4,
+					category: 'random',
 			}
 		}
 ]
-````
+```
 
 ## Configuration options
 
@@ -61,5 +67,6 @@ modules: [
 </table>
 
 ## How to add your own facts
-You can edit the `facts.js` file, if you are comfortable merging them with any remote changes.
+
+You can edit the `MMM-Facts.js` file, if you are comfortable merging them with any remote changes.
 Alternatively, you may fork this repository to have an exclusive copy you can edit without conflicts.

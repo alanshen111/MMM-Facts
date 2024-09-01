@@ -1,4 +1,4 @@
-Module.register("facts",{
+Module.register("MMM-Facts",{
 
 	// edit these
 	defaults: {
